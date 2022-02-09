@@ -6,5 +6,4 @@ varies inversely with body fat (measured using the BMI) across childhood. Specif
 
 These age trajectories were non-linear and required me to use regression splines and generalized additive models (GAM) with the mgcv package. 
 
-Paper:
 Aronoff, J. E., Ragin, A., Wu, C., Markl, M. Schnell, S., Shaibani, A., Blair, C., & Kuzawa, C. W. (2022). Why do humans undergo an adiposity rebound? Exploring links with the energetic costs of brain development in childhood using MRI-based 4D measures of total cerebral blood flow. International Journal of Obesity. 
